@@ -1,0 +1,14 @@
+# Title: HolyKill (Shabbat Keeping Websites Killer)
+#
+# For more information about this list, see: http://holykill.tk/
+# ----
+# start date:     Wed, 01 Aug 2018 00:00:00
+# last updated:   Sun, 09 Aug 2018 13:32:08 GMT
+# entries:        1
+# format:         Hosts File
+# credits:        Vexover - support@vexover.com - http://holykill.tk/
+# this URL:       http://holykill.vexover.com/holykill.txt
+# other formats:  http://holykill.vexover.com/index.html#faq
+# policy:         http://holykill.vexover.com/index.html#faq
+#
+127.0.0.1 traklin.co.il
