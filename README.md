@@ -2,13 +2,13 @@
 
 * [The Filter](#the-filter)
 * [Installaton](#installaton)
- * [A. uBlock Origin Extension for Chrome/Firefox/Opera/Edge/Safari on PC/Mac](#a-ublock-origin-extension-for-chromefirefoxoperaedgesafari-on-pcmac)
-  * [Step 1: Install a Web Browser](#step-1-install-a-web-browser)
-  * [Step 2: Install uBlock Origin Ad Blocking Extension](#step-2-install-ublock-origin-ad-blocking-extension)
-  * [Step 3: Copy the filter list URL](#step-3-copy-the-filter-list-url)
-  * [Step 4: Import the URL into the extension](#step-4-import-the-url-into-the-extension)
- * [B. Blokada app on Android (Non Rooted Devices)](#b-blokada-app-on-android-non-rooted-devices)
- * [C. Adaway app on Android (Rooted Only Devices)](#c-adaway-app-on-android-rooted-only-devices)
+  * [A. uBlock Origin Extension for Chrome/Firefox/Opera/Edge/Safari on PC/Mac](#a-ublock-origin-extension-for-chromefirefoxoperaedgesafari-on-pcmac)
+    * [Step 1: Install a Web Browser](#step-1-install-a-web-browser)
+    * [Step 2: Install uBlock Origin Ad Blocking Extension](#step-2-install-ublock-origin-ad-blocking-extension)
+    * [Step 3: Copy the filter list URL](#step-3-copy-the-filter-list-url)
+    * [Step 4: Import the URL into the extension](#step-4-import-the-url-into-the-extension)
+  * [B. Blokada app on Android (Non Rooted Devices)](#b-blokada-app-on-android-non-rooted-devices)
+  * [C. Adaway app on Android (Rooted Only Devices)](#c-adaway-app-on-android-rooted-only-devices)
 * [Changelog](#changelog)
 
 ## The Filter
