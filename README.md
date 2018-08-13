@@ -1,7 +1,5 @@
 ## ⚠ DISCLAIMER ⚠
 > **By using this list you fully agree that you do not have any arguments or claims for the developer/maintainer, you use it at your own risk and anything that will go wrong is your responsibility! nobody forces you to use it, and you are free to disable or remove it from your adblocker software at any time.**
-> **BEFORE CONTINUING PLEASE READ THIS**
-
 
 # Holykill
 
