@@ -1,6 +1,15 @@
 # Holykill
 
 * [The Filter](#the-filter)
+* [Installaton](#installaton)
+ * [A. uBlock Origin Extension for Chrome/Firefox/Opera/Edge/Safari on PC/Mac](#a-ublock-origin-extension-for-chromefirefoxoperaedgesafari-on-pcmac)
+  * [Step 1: Install a Web Browser](#step-1-install-a-web-browser)
+  * [Step 2: Install uBlock Origin Ad Blocking Extension](#step-2-install-ublock-origin-ad-blocking-extension)
+  * [Step 3: Copy the filter list URL](#step-3-copy-the-filter-list-url)
+  * [Step 4: Import the URL into the extension](#step-4-import-the-url-into-the-extension)
+ * [B. Blokada app on Android (Non Rooted Devices)](#b-blokada-app-on-android-non-rooted-devices)
+ * [C. Adaway app on Android (Rooted Only Devices)](#c-adaway-app-on-android-rooted-only-devices)
+* [Changelog](#changelog)
 
 ## The Filter
 
@@ -62,13 +71,11 @@ Copy the following url of the filter list to the clipboard (Double click the URL
 5. Click on "Apply Changes" on the top right corner of the screen.
 6. Scroll back to the top and press "Update now"
 
-#### Step 5: Enjoy!
-
 From now on this list will be updated automatically when new websites are added/deleted on the server.
 
 ### B. Blokada app on Android (Non Rooted Devices)
 Wait for the instructions
-### B. Adaway app on Android (Rooted Only Devices)
+### C. Adaway app on Android (Rooted Only Devices)
 Wait for the instructions
 
 ## Changelog
