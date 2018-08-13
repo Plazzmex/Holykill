@@ -1,7 +1,6 @@
 # Holykill
-The ultimate Shabbat Keeping websites killer list for Ad blocking software.
 
-Direct link for share http://holykill.tk/
+* [The Filter](#the-filter)
 
 ## The Filter
 
