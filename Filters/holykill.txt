@@ -12,3 +12,16 @@
 # policy:         http://holykill.vexover.com/index.html#faq
 #
 127.0.0.1 traklin.co.il
+127.0.0.1 ofaleshabat.com
+127.0.0.1 holyclock.com
+127.0.0.1 yoh.co.il
+127.0.0.1 nogezel.org
+127.0.0.1 jobportal.co.il
+127.0.0.1 mamon.biz
+127.0.0.1 b2b.btl.gov.il/b2b/framesetlogonanonymous.asp
+127.0.0.1 shabes.net
+127.0.0.1 familypharm.co.il
+127.0.0.1 nir-gahali.022.co.il
+127.0.0.1 naomi.org.il
+127.0.0.1 puzzleworld.co.il
+127.0.0.1 giusim.co.il
