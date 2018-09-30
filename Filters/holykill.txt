@@ -18,7 +18,7 @@
 127.0.0.1 nogezel.org
 127.0.0.1 jobportal.co.il
 127.0.0.1 mamon.biz
-127.0.0.1 b2b.btl.gov.il/b2b/framesetlogonanonymous.asp
+# 127.0.0.1 b2b.btl.gov.il/b2b/framesetlogonanonymous.asp
 127.0.0.1 shabes.net
 127.0.0.1 familypharm.co.il
 127.0.0.1 nir-gahali.022.co.il
