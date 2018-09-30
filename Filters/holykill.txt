@@ -7,9 +7,9 @@
 # entries:        1
 # format:         Hosts File
 # credits:        Vexover - support@vexover.com - http://holykill.tk/
-# this URL:       http://holykill.vexover.com/holykill.txt
-# other formats:  http://holykill.vexover.com/index.html#faq
-# policy:         http://holykill.vexover.com/index.html#faq
+# this URL:       https://raw.githubusercontent.com/Plazzmex/holykill/master/Filters/holykill.txt
+# other formats:  https://github.com/Plazzmex/holykill
+# policy:         https://github.com/Plazzmex/holykill
 #
 127.0.0.1 traklin.co.il
 127.0.0.1 ofaleshabat.com
