@@ -25,3 +25,4 @@
 127.0.0.1 naomi.org.il
 127.0.0.1 puzzleworld.co.il
 127.0.0.1 giusim.co.il
+127.0.0.1 dr-dyo.co.il
