@@ -1,12 +1,12 @@
 # Title: HolyKill (Shabbat Keeping Websites Killer)
 #
-# For more information about this list, see: http://holykill.tk/
+# For more information about this list, see: https://github.com/Plazzmex/holykill
 # ----
 # start date:     Wed, 01 Aug 2018 00:00:00
-# last updated:   Sun, 09 Aug 2018 13:32:08 GMT
-# entries:        1
+# last updated:   Sun, 18 Jul 2020 15:40:00 GMT
+# entries:        15
 # format:         Hosts File
-# credits:        Vexover - support@vexover.com - http://holykill.tk/
+# credits:        Vexover - support@vexover.com - https://github.com/Plazzmex/holykill
 # this URL:       https://raw.githubusercontent.com/Plazzmex/holykill/master/Filters/holykill.txt
 # other formats:  https://github.com/Plazzmex/holykill
 # policy:         https://github.com/Plazzmex/holykill
@@ -26,3 +26,4 @@
 127.0.0.1 puzzleworld.co.il
 127.0.0.1 giusim.co.il
 127.0.0.1 dr-dyo.co.il
+127.0.0.1 buy-buy.co.il
