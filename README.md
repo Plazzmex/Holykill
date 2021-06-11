@@ -82,8 +82,12 @@ Wait for the instructions
 Wait for the instructions
 
 ## Changelog
-
-#### Release 0.1 (August 09, 2018)
+#### Release 0.1.1 (June, 2021)
+* Added servers
+  * dr-dyo.co.il
+  * buy-buy.co.il
+  * yarid-b.co.il
+#### Release 0.1 (August, 2018)
 * Initial Release
   * Initial Release
     
