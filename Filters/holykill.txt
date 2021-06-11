@@ -27,3 +27,4 @@
 127.0.0.1 giusim.co.il
 127.0.0.1 dr-dyo.co.il
 127.0.0.1 buy-buy.co.il
+127.0.0.1 yarid-b.co.il
